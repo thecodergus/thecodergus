@@ -1,5 +1,5 @@
 ## Quem sou?
-Ola a todos, sou Gustavo Michels de Camargo, desenvolvedor full stack e estudante de Ciências da Computação na Universidade do Estado de Santa Catarina (UDESC)
+Ola a todos, sou Gustavo Michels de Camargo, desenvolvedor full stack e estudante de Ciências da Computação na Universidade do Estado de Santa Catarina (UDESC).
 
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
