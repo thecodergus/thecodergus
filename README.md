@@ -44,7 +44,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gusscamargo&show_icons=true&hide_border=true" />
 
 </details> 
-<br>
-<br>
-
-![https://i.imgur.com/HC0DYgB.jpg](https://i.imgur.com/HC0DYgB.jpg)
