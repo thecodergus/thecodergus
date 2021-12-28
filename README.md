@@ -47,6 +47,6 @@
 <br>
 
 <p aligin="center>
-   ![](https://i.imgur.com/HC0DYgB.jpg)
+   ![]()
    <img src="https://i.imgur.com/HC0DYgB.jpg">
 </p>
