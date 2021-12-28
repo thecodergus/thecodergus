@@ -34,6 +34,7 @@
 <img align="left" alt="Laravel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left" alt="Java" width="60px" src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" />
 <img align="left" alt="Docker" width="50px" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" />
+<img align="left" alt="Python" width="50px" src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png?fit=1200%2C508&ssl=1" />
 <br>
 
 ---
