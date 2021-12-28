@@ -1,6 +1,6 @@
 [linkedin]:https://www.linkedin.com/in/gustavo-michels-de-camargo/
 
-### Prazer sou o Gustavo
+### Prazer sou o Gustavo Michels de Camargo (pode me chamar de gus)
 
 
 ## Sou desenvolvedor full stack e estudante de Ciência da Computação
