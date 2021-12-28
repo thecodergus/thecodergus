@@ -4,7 +4,7 @@
 
 
 ## Sou desenvolvedor full stack e estudante de Ciência da Computação
-- 🌱 Atualmente, estou aprendendo tudo que for possível
+- 🌱 Atualmente, (ainda) estou aprendendo tudo que for possível
 -  🥅 Objetivos 2022: Contribuir para algum projeto Open Source
 -   ⚡ Curiosidade: adoro ler e escrever poemas e poesias
 
