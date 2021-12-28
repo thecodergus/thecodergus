@@ -1,3 +1,4 @@
+
 [linkedin]:https://www.linkedin.com/in/gustavo-michels-de-camargo/
 
 ### Muito prazer, sou o Gustavo Michels de Camargo (pode me chamar de gus)
@@ -46,6 +47,4 @@
 <br>
 <br>
 
-<p aligin="center>
-   <img src="https://i.imgur.com/HC0DYgB.jpg" alt="Python lendo Python">
-</p>
+![https://i.imgur.com/HC0DYgB.jpg](https://i.imgur.com/HC0DYgB.jpg)
