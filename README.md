@@ -5,9 +5,9 @@
 
 
 ## Sou desenvolvedor full stack e estudante de Ciência da Computação
-- 🌱 Atualmente, (ainda) estou aprendendo tudo que for possível
--  🥅 Objetivos 2022: Contribuir para algum projeto Open Source
--   ⚡ Curiosidade: adoro ler e escrever poemas e poesias
+- 🌱 Eternamente aprendendo
+- 🥅 Objetivos 2022: Contribuir para algum projeto Open Source
+- ⚡ Curiosidade: adoro ler e escrever poemas e poesias
 
 ### Se conecte comigo:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
