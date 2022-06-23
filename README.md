@@ -38,5 +38,5 @@
 <br>
 
 ---
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gusscamargo&show_icons=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gusscamargo&layout=compact)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=thelostgus&show_icons=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thelostgus&layout=compact)
