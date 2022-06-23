@@ -1,10 +1,10 @@
 
 [linkedin]:https://www.linkedin.com/in/gustavo-michels-de-camargo/
 
-### Muito prazer, sou o Gustavo Michels de Camargo (pode me chamar de gus)
+### Muito prazer, sou o Gus
 
 
-## Sou desenvolvedor full stack e estudante de Ciência da Computação
+## Sou desenvolvedor e estudante de Ciência da Computação, formado tecnico em informatica com foco em desenvolvimento web
 - 🌱 Eternamente aprendendo
 - 🥅 Objetivos 2022: Contribuir para algum projeto Open Source
 - ⚡ Curiosidade: adoro ler e escrever poemas e poesias
