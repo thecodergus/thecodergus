@@ -32,7 +32,7 @@
 <br>
 <br>
 <br>
-<img align="left" alt="Php" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" />
+<img align="left" alt="Php" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" />
 <img align="left" alt="Laravel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left" alt="Java" width="60px" src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" />
 <img align="left" alt="Docker" width="50px" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" />
