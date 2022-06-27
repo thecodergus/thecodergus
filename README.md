@@ -6,7 +6,7 @@
 
 ## Sou desenvolvedor e estudante de Ciência da Computação, formado tecnico em informatica com foco em desenvolvimento web
 - 🌱 Eternamente aprendendo
-- 🥅 Objetivos 2022: Contribuir para algum projeto Open Source
+- 🥅 Objetivos 2022: Contribuir para algum projeto Open Source (Feito)
 - ⚡ Curiosidade: adoro ler e escrever poemas e poesias
 
 ### Se conecte comigo:
