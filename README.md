@@ -8,7 +8,7 @@
 - 🌱 Eternamente aprendendo
 - 🥅 Objetivos 2022: Contribuir para algum projeto Open Source (Feito)
 - ⚡ Curiosidade: adoro ler e escrever poemas e poesias
-- ✊ Agressor de mulheres
+
 
 ### Se conecte comigo:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
