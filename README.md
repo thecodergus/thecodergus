@@ -15,7 +15,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
-[<img align="left" alt="wololo" width="100%" src="https://media2.giphy.com/media/PfU0R7E4hhWBhZAhJ9/giphy.gif?cid=ecf05e47vf5g2tafpbzt4kps5ov10354mkgphsuwgbma9yaz&rid=giphy.gif&ct=g" />]
+<img align="left" alt="wololo" width="100%" src="https://media2.giphy.com/media/PfU0R7E4hhWBhZAhJ9/giphy.gif?cid=ecf05e47vf5g2tafpbzt4kps5ov10354mkgphsuwgbma9yaz&rid=giphy.gif&ct=g" />
 
 
 <!-- ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=thelostgus&show_icons=true)
