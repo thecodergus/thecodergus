@@ -8,7 +8,7 @@
 - 🌱 Eternamente aprendendo
 - 🥅 Objetivos 2022: Contribuir para algum projeto Open Source (Feito)
 - ⚡ Curiosidade: adoro ler e escrever poemas e poesias
-- Obcecado por jogos de estrategia (em enfase Age 2 e Eu4)
+- ♟️🏹🎮 Obcecado por jogos de estrategia (em enfase Age 2 e Eu4)
 
 
 ### Se conecte comigo:
