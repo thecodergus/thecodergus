@@ -4,7 +4,7 @@
 ### Hello there, I'm Gus
 
 
-## I am a developer and student of Computer Science, graduated as a computer technician with a focus on web development.
+## I am a developer and student of Computer Science, graduated as a computer technician with a focus on web development and with an interest in artificial intelligence.
 - 🌱 Eternally learning
 - 🥅 Goals 2022: Contribute to an Open Source Project (Done)
 - ⚡ Fun fact: I love to read and write poems and poetry
