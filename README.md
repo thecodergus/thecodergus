@@ -1,17 +1,17 @@
 
 [linkedin]:https://www.linkedin.com/in/gustavo-michels-de-camargo/
 
-### Muito prazer, sou o Gus
+### Hello there, I'm Gus
 
 
-## Sou desenvolvedor e estudante de Ciência da Computação, formado tecnico em informatica com foco em desenvolvimento web
-- 🌱 Eternamente aprendendo
-- 🥅 Objetivos 2022: Contribuir para algum projeto Open Source (Feito)
-- ⚡ Curiosidade: adoro ler e escrever poemas e poesias
-- ♟️🏹🎮 Obcecado por jogos de estrategia (em enfase Age 2 e Eu4)
+## I am a developer and student of Computer Science, graduated as a computer technician with a focus on web development.
+- 🌱 Eternally learning
+- 🥅 Goals 2022: Contribute to an Open Source Project (Done)
+- ⚡ Fun fact: I love to read and write poems and poetry
+- ♟️🏹🎮 Obsessed with strategy games (emphasis in Age 2, Vic 2 and Eu4)
 
 
-### Se conecte comigo:
+### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
