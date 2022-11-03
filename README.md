@@ -8,7 +8,7 @@
 - 🌱 Eternally learning
 - 🥅 Goals 2022: Contribute to an Open Source Project (Done)
 - ⚡ Fun fact: I love to read and write poems and poetry
-- ♟️🏹🎮 Obsessed with strategy games (emphasis in Age 2, Vic 2 and Eu4)
+- ♟️🏹🎮 Obsessed with strategy games (emphasis in Age 2, Vic 3 and Eu4)
 
 
 ### Connect with me:
