@@ -11,10 +11,10 @@
 - ♟️🏹🎮 Obsessed with strategy games (emphasis in Age 2, Vic 3 and Eu4)
 
 
-### Connect with me:
+<!-- ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
-
+ -->
 <img align="left" alt="wololo" width="100%" src="https://media2.giphy.com/media/PfU0R7E4hhWBhZAhJ9/giphy.gif?cid=ecf05e47vf5g2tafpbzt4kps5ov10354mkgphsuwgbma9yaz&rid=giphy.gif&ct=g" />
 
 
