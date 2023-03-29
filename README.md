@@ -7,7 +7,7 @@
 ## I am a developer and student of Computer Science interested in artificial intelligence.
 - 🌱 Eternally learning
 - 🥅 Goals 2022: Contribute to an Open Source Project (Done) ✅
-- 🥅 Goals 2023: Start a Rust Project or join in an open source project written in Rust
+- 🥅 Goals 2023: Start a Rust Project or Contribute to an open source project written in Rust
 - ⚡ Fun fact: I love to read and write poems and poetry
 - ♟️🏹🎮 Obsessed with strategy games (emphasis in Age 2, Vic 3 and Eu4)
 
