@@ -26,4 +26,4 @@ Feel free to reach out to me at [gustavo.michels.de.camargo@gmail.com](mailto:gu
  
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=thecodergus&show_icons=true)
 
-<img align="left" alt="wololo" width="100%" src="https://media2.giphy.com/media/PfU0R7E4hhWBhZAhJ9/giphy.gif?cid=ecf05e47vf5g2tafpbzt4kps5ov10354mkgphsuwgbma9yaz&rid=giphy.gif&ct=g" />
+<img align="center" alt="awake" width="100%" src="https://media.tenor.com/y6_NBi-9ZLQAAAAC/skyrim-margin.gif" />
