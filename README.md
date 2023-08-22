@@ -15,14 +15,16 @@ Feel free to reach out to me at [gustavo.michels.de.camarg@gmail.com](mailto:gus
 
 ### Technologies & Tools
 
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> Python
-- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> C++ 20
-- <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> Rust
-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> TypeScript
-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> TensorFlow
-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> PyTorch
-- <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> Pandas
-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> Docker
+### Technologies & Tools
+- [<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />](https://www.python.org/)
+- [<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />](https://en.cppreference.com/w/)
+- [<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />](https://www.rust-lang.org/)
+- [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
+- [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />](https://www.tensorflow.org/)
+- [<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />](https://pytorch.org/)
+- [<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
+- [<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />](https://www.docker.com/)
+
  
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=thecodergus&show_icons=true)
 
