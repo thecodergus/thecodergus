@@ -14,8 +14,6 @@ Feel free to reach out to me at [gustavo.michels.de.camarg@gmail.com](mailto:gus
 👋 Hi, I'm Gustavo, a web development technician and Computer Science student. Currently, I'm working as a SENAI scholarship holder at the startup Strokmatic, where I engage in image processing, artificial intelligence, and industrial software development. This experience has provided me the opportunity to apply and expand my knowledge in innovative and challenging areas. In the past, I was a competitive programmer, a phase that helped me develop skills in solving complex problems. My interests extend to the fields of information technology and artificial intelligence 🤖, where I'm always eager to explore new concepts and innovations. Whether it's developing cutting-edge applications or diving into the latest AI research, I'm committed to staying at the forefront of the industry and contributing to a future where technology empowers and inspires.
 
 ### Technologies & Tools
-
-### Technologies & Tools
 - [<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />](https://www.python.org/)
 - [<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />](https://en.cppreference.com/w/)
 - [<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />](https://www.rust-lang.org/)
