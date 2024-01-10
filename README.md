@@ -19,7 +19,6 @@ I am Gustavo Michels de Camargo, a Computer Science undergraduate at the State U
 - [<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />](https://www.rust-lang.org/)
 - [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 - [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />](https://www.tensorflow.org/)
-- [<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />](https://pytorch.org/)
 - [<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 - [<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />](https://www.docker.com/)
 
