@@ -4,7 +4,7 @@
 - 🌱 Eternally learning
 - 🥅 Goals 2022: Contribute to an Open Source Project (Done) ✅
 - 🥅 Goals 2023: Start a Rust Project or Contribute to an open source project written in Rust. (Done) ✅
-- 🥅 Goals 2023: Publish an article about artificial intelligence.
+- 🥅 Goals 2024: Publish an article.
 - ⚡ Fun fact: I love to read and write poems and poetry
 - ♟️🏹🎮 Obsessed with strategy and RPG games
 
