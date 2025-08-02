@@ -20,15 +20,6 @@ Currently, I work as a blockchain researcher at UDESC in partnership with Become
 
 ---
 
-## 🎯 My Annual Journeys
-
-- 🌱 **2022**: Contribute to an Open Source Project ✅ **Completed**
-- 🥅 **2023**: Start a Rust project or contribute to an Open Source project in Rust ✅ **Completed**
-- 📝 **2024**: Publish a technical article 🔄 **In progress**
-- 🔮 **2025**: Create an innovative solution combining LLMs and Blockchain
-
----
-
 ## 💼 Experience & Featured Projects
 
 ### 🔬 Blockchain Researcher | UDESC & Becomex
