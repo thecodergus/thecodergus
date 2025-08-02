@@ -112,7 +112,7 @@ This approach has been fundamental for developing robust systems, especially in 
 
 <div align="center">
   
-![awake]([https://media.tenor.com/y6_NBi-9ZLQAAAAC/skyrim-margin.gif](https://i.makeagif.com/media/7-19-2023/Uch4X6.gif))
+![awake]([https://media.tenor.com/y6_NBi-9ZLQAAAAC/skyrim-margin.gif]
 
 ### *"Code is poetry, and each line a verse in the symphony of technology"* 🎼
 
