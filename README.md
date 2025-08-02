@@ -60,8 +60,6 @@ Currently, I work as a blockchain researcher at UDESC in partnership with Become
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://yt3.googleusercontent.com/7aMstlSvB1R2xAAOxF91vHWtAX2bhptsv6ROXPglCOyax0HKc8AATSYbqKr-10u4WvJ-e08b7Qg=s900-c-k-c0x00ffffff-no-rj)
-![LangGraph](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png)
 
 ### Blockchain & Web3
 ![Blockchain](https://img.shields.io/badge/blockchain-%23121011.svg?style=for-the-badge&logo=blockchain&logoColor=white)
