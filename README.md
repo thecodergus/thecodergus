@@ -13,7 +13,7 @@ I'm a software developer and Computer Science researcher at UDESC, passionate ab
 - 🤖 **Artificial Intelligence** - Especially LLMs with LangChain and LangGraph
 - ⛓️ **Blockchain** - Focused on Hyperledger Besu and DREX
 - ⚡ **Compiled Languages** - Specialist in C, C++ and Rust
-- 🧠 **Functional Programming** - Passionate about Haskell and Futhark
+- 🧠 **Functional Programming** - Passionate about Haskell and [Futhark](https://futhark-lang.org/)
 
 Currently, I work as a blockchain researcher at UDESC in partnership with Becomex, where I explore innovative solutions for traceability and origin certification.
 
