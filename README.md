@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-I'm a software developer and Computer Science researcher at UDESC, passionate about technology and innovation. My professional journey is marked by exploring fascinating areas such as:
+I'm a software developer, Computer Science researcher and data enginner at [Ottimizza](https://ottimizza.com.br/), passionate about technology and innovation. My professional journey is marked by exploring fascinating areas such as:
 
-- 🤖 **Artificial Intelligence** - Especially LLMs with LangChain and LangGraph
-- ⛓️ **Blockchain** - Focused on Hyperledger Besu and DREX
-- ⚡ **Compiled Languages** - Specialist in C, C++ and Rust
+- 🤖 **Artificial Intelligence** - Especially Open Source LLMs with LangChain and LangGraph
+- ⛓️ **Blockchain** - Focused on Hyperledger Besu
+- ⚡ **Compiled Languages** - Specialist in C, C++, Rust and Python
 - 🧠 **Functional Programming** - Passionate about Haskell and [Futhark](https://futhark-lang.org/)
 
 Currently, I work as a blockchain researcher at UDESC in partnership with Becomex, where I explore innovative solutions for traceability and origin certification.
